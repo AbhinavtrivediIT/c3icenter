@@ -1,0 +1,59 @@
+
+header {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+    background-color:transparent;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    backdrop-filter: blur(50px);
+  }
+
+
+  
+
+  .logo img {
+    height: 40px;
+  }
+
+  .nav {
+    display: flex;
+/* background-color: lightblue; */ 
+   margin-inline: auto;
+
+}
+
+  .header_button {
+    padding: 0.5rem;
+    font-size: 1rem;
+    margin-inline: 1rem;
+    font-weight: 500;
+    color: #C2C2C2;
+
+    ;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    transition: border-bottom-color 0.3s ease-in-out;
+  }
+
+  .header_button:hover {
+    border-bottom-color: #ddd;
+  }
+
+  .active {
+    color: #ff8c00;
+    border-bottom: 2px solid #ff8c00;
+  }
+
+
+
+  
+
+  
+
+  

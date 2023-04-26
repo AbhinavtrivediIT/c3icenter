@@ -1,0 +1,81 @@
+.research{
+    color:#C2C2C2;
+    background-image: url(researchback.png);
+    margin-top: 1rem;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    padding-block: 1rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.research_pera{
+    max-width: 50%;
+    margin-inline: auto;
+    padding-block: 1rem;
+    max-height: 8ch;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
+.research_card_grp{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-content: space-evenly;
+    margin-top: 2rem;
+    gap:1.4rem ;
+    padding: 1rem;
+
+}
+.research_item{
+    padding-block:0.8rem ;
+
+}
+
+.research_image{
+    
+    width:7rem;
+    height: 7rem;
+}
+.research_title{
+    color: #8AC51D;
+    font-size: 1.5rem;
+
+}
+.research_description{
+    color: #C2C2C2;
+    max-height: 8ch;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 27rem;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 1rem;
+
+
+}
+.research_btn{
+    color: #FFAD71;
+    border: none;
+    background-color: transparent;
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding-inline: 1.5rem;
+    padding-block: 0.8rem;
+}
+.research_btn:hover{
+    border: 1.5px solid #FFAD71;
+    border-radius: 2rem;
+   
+}
+
+@media only screen and (max-width: 768px) {
+    .research_pera{
+        max-width: 95%;
+        }
+        .research_card_grp{
+           
+            grid-template-columns: repeat(1,1fr);
+            row-gap: 2.5rem;
+        
+        }
+  }

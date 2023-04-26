@@ -1,0 +1,31 @@
+{
+"title":"Our Research Domain",
+"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enim, turpis vel donec fringilla lorem. Morbi amet lorem molestie a tellus cras aliquet sem. Velit, mattis cras consequat nisl vel nibh ultricies. Vel vulputate id arcu ultrices.",
+"domain":[
+    {
+        "title":"Cyber Security",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enim, turpis vel donec fringilla lorem. Morbi amet lorem molestie a tellus cras aliquet sem. Velit, mattis cras consequat nisl vel nibh ultricies. Vel vulputate id arcu ultrices.",
+        "buttonName":"Learn More",
+        "buttonUrl":"http://172.29.234.5:3000/",
+        "image":"one.png"
+
+    },
+    {
+        "title":"Critical Infrastructure",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enim, turpis vel donec fringilla lorem. Morbi amet lorem molestie a tellus cras aliquet sem. Velit, mattis cras consequat nisl vel nibh ultricies. Vel vulputate id arcu ultrices.",
+        "buttonName":"Learn More",
+        "buttonUrl":"https://chat.openai.com/",
+        "image":"two.png"
+
+    },
+    {
+        "title":"Unnamed Aerial Vehical",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enim, turpis vel donec fringilla lorem. Morbi amet lorem molestie a tellus cras aliquet sem. Velit, mattis cras consequat nisl vel nibh ultricies. Vel vulputate id arcu ultrices.",
+        "buttonName":"Learn More",
+        "buttonUrl":"https://chat.openai.com/",
+        "image":"three.png"
+
+    }
+    
+]
+}

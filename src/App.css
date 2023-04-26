@@ -1,0 +1,29 @@
+.App {
+  overflow-y: scroll;
+  
+}
+
+.App::-webkit-scrollbar {
+    display: none;
+}
+
+.App {
+  -ms-overflow-style: none;  
+  scrollbar-width: none; 
+}
+
+.App {
+  text-align: center;
+ overflow: hidden;
+    scrollbar-width: none; 
+    -ms-overflow-style: none; 
+}
+.head{
+  background-color: #15191C;
+  overflow: scroll;
+ max-height: 100vh !important;
+
+}
+.head::-webkit-scrollbar {
+  display: none; 
+}

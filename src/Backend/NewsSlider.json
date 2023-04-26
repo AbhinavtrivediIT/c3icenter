@@ -1,0 +1,52 @@
+{
+"title":"Latest News",
+"image":"line.png",
+"events":"Event name, Apply before 28th April 2023",
+"eventButton":"Apply Now",
+
+"slider"  : [
+    {
+        "title":"Title of the News Letter",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enim, turpis vel donec fringilla lorem. Morbi amet lorem molestie a tellus cras aliquet sem. Velit, mattis cras consequat nisl vel nibh ultricies. Vel vulputate id arcu ultrices.",
+        "buttonUrl":"http://172.29.234.5:3000/",
+        "image":"news.png"
+    },
+    {
+        "title":"Title of the News Letter",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enim, turpis vel donec fringilla lorem. Morbi amet lorem molestie a tellus cras aliquet sem. Velit, mattis cras consequat nisl vel nibh ultricies. Vel vulputate id arcu ultrices.",
+        "buttonUrl":"http://172.29.234.5:3000/",
+        "image":"news.png"
+    },
+    {
+        "title":"Title of the News Letter",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enim, turpis vel donec fringilla lorem. Morbi amet lorem molestie a tellus cras aliquet sem. Velit, mattis cras consequat nisl vel nibh ultricies. Vel vulputate id arcu ultrices.",
+        "buttonUrl":"http://172.29.234.5:3000/",
+        "image":"news.png"
+    },
+    {
+        "title":"Title of the News Letter",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enim, turpis vel donec fringilla lorem. Morbi amet lorem molestie a tellus cras aliquet sem. Velit, mattis cras consequat nisl vel nibh ultricies. Vel vulputate id arcu ultrices.",
+        "buttonUrl":"http://172.29.234.5:3000/",
+        "image":"news.png"
+    },
+    {
+        "title":"Title of the News Letter",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enim, turpis vel donec fringilla lorem. Morbi amet lorem molestie a tellus cras aliquet sem. Velit, mattis cras consequat nisl vel nibh ultricies. Vel vulputate id arcu ultrices.",
+        "buttonUrl":"http://172.29.234.5:3000/",
+        "image":"news.png"
+    },
+    {
+        "title":"Title of the News Letter",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enim, turpis vel donec fringilla lorem. Morbi amet lorem molestie a tellus cras aliquet sem. Velit, mattis cras consequat nisl vel nibh ultricies. Vel vulputate id arcu ultrices.",
+        "buttonUrl":"http://172.29.234.5:3000/",
+        "image":"news.png"
+    },
+    {
+        "title":"Title of the News Letter",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enim, turpis vel donec fringilla lorem. Morbi amet lorem molestie a tellus cras aliquet sem. Velit, mattis cras consequat nisl vel nibh ultricies. Vel vulputate id arcu ultrices.",
+        "buttonUrl":"http://172.29.234.5:3000/",
+        "image":"news.png"
+    }
+]
+
+}
