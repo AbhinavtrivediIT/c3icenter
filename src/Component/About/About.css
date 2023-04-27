@@ -14,14 +14,134 @@
 }
 .about_headind{
     margin: 0;
+    font-size: clamp(2rem,1.5vw,1.3rem);
+    font-weight: 450;
+}
+.story_line{
+    display: grid;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    margin-left: 3rem;
+
+}
+.about_story_heading{
+    display: flex;
+    justify-content: left;
+    column-gap: 0.5rem;
+    margin-bottom: 0.3rem;
+
 }
 .side_word{
     color: #c2c2c2;
-    font-size: 2rem;
+    font-size: clamp(1.7rem,1.5vw,1.3rem);
+    margin-right: 0.5rem;
+    
 }
 .middle{
     color:#F87F26;
-    font-size: 2rem;
-    margin-inline: 5px;
+    font-size: clamp(1.7rem,1.5vw,1.3rem);
+    margin-right: 0.5rem;
 
+}
+.story{
+    width: 85%;
+    margin: auto;
+    
+}
+.pera_image{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    column-gap: 3rem;
+
+}
+.pera_one{
+    
+    color: #C2C2C2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    line-height: 1.7rem;
+    font-size: 1.2rem;
+}
+.about_story_img{
+    text-align: right;
+}
+.pera_two{
+    justify-content: left;
+    text-align: left;
+    color: #C2C2C2;
+    line-height: 1.7rem;
+    font-size: 1.2rem;
+
+}
+.team_container{
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    margin-left: 3rem;
+    text-align: left;
+
+}
+.team{
+    display: flex;
+    text-align: left;
+
+}
+.teamimage_name{
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 5rem;
+    width: 85%;
+    margin-inline: auto;
+
+}
+
+.individual_img{
+    border: dashed #006D7D;
+    border-radius: 50%;
+    padding: 0;
+}
+.individual_name{
+    color: #C2C2C2;
+    margin-top: 1rem;
+}
+
+.lab_tour{
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    margin-left: 3rem;
+    text-align: left;
+}
+.lab_image_container{
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 5rem;
+    width: 95%;
+    margin-inline: auto;
+}
+.tour_images{
+    width: 95%;
+    height: 15rem;
+    margin-right: 0.5rem;
+}
+
+
+@media screen and (max-width:1200px) {
+    .pera_image{
+    grid-template-columns: repeat(1,1fr);
+
+}
+.about_story_img{
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+}
+
+@media screen and (max-width:700px) {
+
+    .frame{
+        width: 90%;
+        height: 90%;
+    }
 }

@@ -8,6 +8,10 @@
     background-size: cover;
     background-position: center center;
 }
+.research_heading
+{
+    margin-top: 1.2rem;
+}
 .research_pera{
     max-width: 50%;
     margin-inline: auto;
@@ -61,6 +65,7 @@
     cursor: pointer;
     padding-inline: 1.5rem;
     padding-block: 0.8rem;
+    margin-top: 0.7rem;
 }
 .research_btn:hover{
     border: 1.5px solid #FFAD71;

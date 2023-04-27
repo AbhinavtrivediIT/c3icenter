@@ -2,9 +2,20 @@
     color: white;
      padding-block: 2rem;
 }
+.news_heading
+{
+    display: flex;
+    padding-top: 1rem;
+    justify-content: center;
+}
 .latest{
     color: #c2c2c2;
     font-size: 2rem;
+}
+.news_carosel_container
+{
+    padding-inline: 1.5rem;
+    padding-block: 2rem;
 }
 .news
 {
@@ -49,19 +60,37 @@
     color: black;
     display: flex;
     justify-content: space-around;
-    margin: 1rem 1rem;
+    margin: 2rem 1rem;
+    margin-top: 4rem;
     border-radius: 15px;
     padding-block: 0.7rem;
+}
+.event_news p
+{
+    font-size: 1.3rem;
 }
 .event_news button{
     background-color: darkorange;
     border-radius: 50px;
     padding-inline: 2rem;
-    padding-block: 0.5rem;
+    padding-block: 0.9rem;
     font-size: 1rem;
     border: none;
     cursor: pointer;
     align-self: center;
     box-shadow: 0px 2px 4px rgba(0,0,0,0.4);
 
+}
+@media screen and (max-width:650px) {
+    .event_news{
+       flex-direction: column;
+       min-width: 300px;
+       box-sizing: border-box;
+       padding: 1rem;
+
+    } 
+    .event_news p
+{
+    font-size: 1.1rem;
+}
 }

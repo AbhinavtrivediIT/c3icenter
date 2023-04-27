@@ -14,7 +14,7 @@
     /* box-sizing: border-box;  */
   }
 
-
+  
   
   .banner_content{
     max-width: 40%;
@@ -36,8 +36,9 @@
   .title1
   {
     color: #D97932;
-    font-size: 1.7rem;
+    font-size: 1.8rem;
     margin-inline: 2px;
+    font-weight: 450;
   }
 
   .title2
@@ -50,14 +51,24 @@
     color: #8AC51D;
     font-size: 6rem;
   }
-  
+  .banner_content p
+  {
+    font-size: clamp(1.2rem,1.3vw,1rem);
+    line-height: 1.9rem;
+    padding-bottom: 1.5rem;
+  }
   .banner_content button{
     background-color: darkorange;
     border-radius: 50px;
     padding-inline: 2rem;
-    padding-block: 0.5rem;
+    padding-block: 0.9rem;
     font-size: 1rem;
     border: none;
+  }
+  .banner_content button a
+  {
+    text-decoration: none;
+    color: black;
   }
   @media only screen and (max-width: 768px) {
     .background

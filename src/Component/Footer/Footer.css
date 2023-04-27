@@ -33,7 +33,7 @@
   font-size: 1.2rem;
 }
 
-.footer_discription {
+.footer_half p {
   width: 80%;
   margin: auto;
   margin-block: 2rem;
@@ -112,6 +112,35 @@
   
 }
 
+
+
+
+.copy_righ_div
+{
+  width: 100%;
+  min-height: 3rem;
+  background-color: black;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.copy_righ_div p
+{
+  font-size: 1.15rem;
+  color: #989a9b;
+  margin: 0;
+
+}
+
+
+
+
+
+
+
 /* Styles for medium screens */
 @media only screen and (max-width: 768px) {
   .footer_back {
@@ -138,7 +167,7 @@
   }
 
   .logo_defi,
-  .footer_discription {
+  .footer_half p {
     width: 100%;
   }
   .email_subscribe {
@@ -155,6 +184,19 @@
     max-width: 300px;
   }
 }
+.logo_defi img
+{
+  align-self: center;
+}
+
+
+
+
+
+
+
+
+
 
 /* Styles for small screens */
 @media only screen and (max-width: 576px) {
@@ -162,6 +204,7 @@
     flex-direction: column;
     align-items: center;
     padding-inline: 1rem;
+    box-sizing: border-box;
   }
 
   .logo_defi img {
@@ -169,7 +212,7 @@
     margin-bottom: 1rem;
   }
 
-  .footer_discription {
+  .footer_half p {
     font-size: 0.9rem;
     text-align: left;
     max-width: 95%;

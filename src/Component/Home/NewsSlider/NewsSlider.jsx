@@ -27,16 +27,14 @@ const responsive = {
 function NewsSlider() {
   return (
    <div className='news_main'>
-    <div style={{display:'flex' , justifyContent:'center'}}> 
+    <div className='news_heading'> 
         <div className='latest'> {data.title.split(" ")[0]}</div> 
         <div className='news'> {data.title.split(" ")[1]}</div>
     </div>
     <img src={data.image}/>
-   <div style={{paddingInline:'1.5rem'}}>
+   <div className='news_carosel_container'>
    <Carousel
-      swipeable={true}
-      showDots={true} 
-    responsive={responsive}>
+      swipeable={true} showDots={true} responsive={responsive}>
     {data.slider.map((item, index) => (
         <div key={index} className='news_item'>
           <img src={item.image} className='news_image'/>
@@ -49,8 +47,7 @@ function NewsSlider() {
     </Carousel>
     <div className='event_news'>
         <p>{data.events}</p>
-        <button>{data.eventButton}</button>
-        
+        <button>{data.eventButton}</button>    
     </div>
    </div>
 

@@ -15,7 +15,7 @@ function Banner() {
                 </div>
               </div>
             <p className='banner_discription'>{data.description}</p>
-            <button className='btn'>{data.buttonName}</button>
+            <button><a href={"https://wa.me/7033432213"}>{data.buttonName}</a></button>
         </div>
     </div>
   )

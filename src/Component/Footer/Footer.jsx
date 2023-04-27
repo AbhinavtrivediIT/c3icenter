@@ -3,6 +3,7 @@ import './Footer.css'
 import data from '../../Backend/footer.json'
 function Footer() {
   return (
+    <>
     <div className='footer_back'>
       <div className='footer_half'>
         <div className='logo_defi'>
@@ -42,8 +43,12 @@ function Footer() {
 
       
       </div>
-
+      
     </div>
+    <div className="copy_righ_div">
+      <p>Copyright  2019-2022  All Rights Reserved</p>
+    </div>
+    </>
   )
 }
 

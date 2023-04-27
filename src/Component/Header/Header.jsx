@@ -1,10 +1,6 @@
 import React from 'react'
 import './Header.css'
 
-import Banner from '../Home/Banner/Banner'
-import Research from '../Home/Research_domain/Research'
-import NewsSlider from '../Home/NewsSlider/NewsSlider'
-import Footer from '../Footer/Footer'
 function Header() {
   return (
     <div>
@@ -22,26 +18,14 @@ function Header() {
       </svg>  
   </div>
   <nav class="nav">
-    <button class="header_button active">Home</button>
-    <button class="header_button">About Us</button>
+    <button to="/" class="header_button active">Home</button>
+    <button to="/about" class="header_button">About Us</button>
     <button class="header_button">Solutions</button>
     <button class="header_button">Publications</button>
     <button class="header_button">Contact</button>
   </nav>
 </header>
 
-    {/* <div>
-      <Banner/>
-    </div>
-    <div>
-      <Research/>
-    </div>
-    <div>
-      <NewsSlider/>
-    </div>
-    <div>
-      <Footer/>
-    </div> */}
     </div>
   )
 }

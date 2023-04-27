@@ -2,6 +2,58 @@
     "title":"About us",
     "lineImage":"smallLine.png",
     "largelineImage":"line.png",
-    "heading":"A small Story About us"
-    
+    "heading":"A small Story About us",
+    "peraone":"Cyber Security is no longer just a information security problem. It has become a national security problem due to increased use of digital control and communication in the functioning of critical infrastructures. For example, power grid, water and sewage system, nuclear plants, industrial control of manufacturing plants, railway signalling and track switch, air traffic control, rockets and missile control — all are done through digital sensing, and software based control. Network based data movement from sensors to control centres, substations, and load dispatch centres are examples of dependence of critical infrastructure on communication network. Nation states, terrorists, and organised criminals can launch cyber-attacks on such systems to debilitate a nation’s infrastructure, cause large scale blackouts, manufacturing loss, train and air accidents or nuclear accidents.",
+    "peratwo":"SERB/DST funded the “Interdisciplinary Centre for Cyber Security and Cyber Defence of Critical Infrastructures” at IIT Kanpur to create India’s first research centre whose mission is to do research, education, training, and to spawn start ups to create technological safe guards to protect critical infrastructure. The centre is building-India’s first cyber security test bed for critical infrastructure similar to what is available at Idaho national labs, Sandia National Labs and NIST in the US. The researchers from our center in IIT Kanpur are discovering cyber threats to our critical infrastructure, developing solutions, and alerting the NCSC, and other government agencies on vulnerabilities in our critical infrastructure sector. The center is also training students on this topic and technologies who would be cyber security professionals in leading India’s critical infrastructure utilities, and government agencies in the future. We are also planning to provide hands-on training to executives of utilities so that they can be aware of cyber security threats, and how to prevent such attacks. The centre is also engaged with international partners from Israel, and USA in developing research and technology exchange, student training, as well as hosting conferences, workshops, and cyber security competitions to create awareness, student excitement in choosing cyber security profession, and to develop a world class academic research culture in the field of cyber security.",
+    "frame": "Frame.png",
+    "team" : "Our Team",
+    "tour": "A small tour of our Lab",
+    "teammember"  : [
+    {
+        "name":"DR. SANDEEP SHUKLA",
+        "image":"sandeep_sir.png"
+    },
+    {
+        "name":"Prof. Manindra Agrawal",
+        "image":"manindra_sir.png"
+    },
+    {
+        "name":"Name of the respective",
+        "image":"unknown.png"
+    },
+    {
+        "name":"Name of the respective",
+        "image":"unknown.png"
+    },
+    {
+        "name":"Name of the respective",
+        "image":"unknown.png"
+    },
+   
+    {
+        "name":"Name of the respective",
+        "image":"unknown.png"
+    }
+],
+"tourImage":[
+    {
+        "image":"Videowall.jpg"
+    },
+    {
+        "image":"Eduministervisit.jpg"
+    },
+    {
+        "image":"inau.jpg"
+    },
+    {
+        "image":"factory.jpg"
+    },
+    {
+        "image":"CSAW4.jpg"
+    },
+    {
+        "image":"machine.jpg"
+    }
+]
+
 }
