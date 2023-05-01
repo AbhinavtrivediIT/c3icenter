@@ -24,7 +24,7 @@
     margin-left: 3rem;
 
 }
-.about_story_heading{
+.heading{
     display: flex;
     justify-content: left;
     column-gap: 0.5rem;

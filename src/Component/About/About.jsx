@@ -13,7 +13,7 @@ function About() {
       </div>
       </div>
       <div className='story_line'>
-        <div className='about_story_heading'> 
+        <div className='heading'> 
           <div className='side_word'> {data.heading.split(" ")[0]}</div> 
           <div className='middle'> {data.heading.split(" ")[1]}</div>
           <div className='middle'> {data.heading.split(" ")[2]}</div> 
@@ -34,11 +34,6 @@ function About() {
       </div>
       <div className='pera_two'>{data.peratwo}</div>
      </div>
-
-    
-{/* 
-      <Team/>
-      <LabTour/> */}
     </div>
   )
 }

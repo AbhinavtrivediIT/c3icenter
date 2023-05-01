@@ -4,15 +4,17 @@ import Footer from './Component/Footer/Footer';
 
 import Aboutview from './View/Aboutview';
 import HomeView from './View/HomeView';
+import Solution from './Component/Solution/Solution';
 function App() {
 
   return (
     <div className="App">
       <div className='head'>
       <Header/>
-      <HomeView/>
+      {/* <HomeView/> */}
       {/* <Aboutview/> */}
 
+      <Solution/>
       <Footer/> 
      </div>
     </div>

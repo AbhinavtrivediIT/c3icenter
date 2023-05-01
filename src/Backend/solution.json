@@ -1,0 +1,90 @@
+{
+    "title": "Solution",
+    "lineImage":"smallLine.png",
+    "heading":"Solutions Developed/Deployed",
+    "largelineImage":"line.png",
+    "solutionlineima":"solutionLine.png",
+    "solutiontitle" :[
+        
+    {
+         "title":"CPS Intrusion Detection Solution",
+         "content" :{
+            "heading":"RobustD",
+            "describe": "CPS intrusion detection solution which monitors sensor and actuator data at ICS con- trollers + OT host and detects intrusion",
+            "list": [
+               "Reduces cyber security risk",
+               "Enhances OT + ICS security mitigation",
+               "Reduces control subverting risk"
+             ],
+             "systemheading":"System conﬁguration of the proposed solutio",
+             "systeminfo":"RobustD deployed at OT layer and integrated with controller over Modbus TCP + histo- rian. Acquires data, calculates anomaly / alarm score for newly generated measurements and detects intrusion",
+             "features": "Features"
+
+       }
+    },
+    {
+        "title":"File Diagnosis Solution",
+        "content":{
+            "heading":"FileD",
+            "describe": "File diagnosis solution which provides security against malicious ﬁles by analyzing and quarantining",
+            "list": [
+                "Aids risk management",
+                "Reduces ransomware and other malware risks",
+                "Enhances OT + ICS + IT security"
+              ],
+              "systemheading":"System conﬁguration of the proposed solutio",
+              "systeminfo":"FileD can be deployed in the customer’s network as a service. Users can upload their ﬁles received and get them analyzed before use",
+              "features": "Features"
+        }
+    },
+    {
+        "title":"Honeypot Solutions",
+        "content": 
+        {
+            "heading":"TrapD",
+            "describe": "Honeypot solutions which provide additional security protection designed to trap a hacker into a decoy system thus unknowingly revealing it’s modus operandi",
+            "list": [
+                "Provides in house threat intelligence collection mechanism",
+                "Enhances OT + ICS + IT security"
+              ],
+              "systemheading":"System conﬁguration of the proposed solutio",
+              "systeminfo":"Deployed within the network, TrapD acts like an actual system, waits for requests and responds accordingly, Keeps malicious actor engaged by serving several vulnerabilities incorporated intentionally.",
+              "features": "Features"
+        }
+    },
+    {
+    "title":"Network Intrusion Detection System",
+    "content":{
+        "heading":"BinD",
+        "describe": "A Network Intrusion Detection System which monitors the network and detects intrusion by malicious actors and bots in the network",
+        "list": [
+            "Reduces cyber security risk",
+            "Enhances network security",
+            "Limits generation of attacks from the premises like DDoS, spam, phishing, pass- word sniffing, etc."
+          ],
+          "systemheading":"System conﬁguration of the proposed solutio",
+          "systeminfo":"BinD is a network-connected solution. It acquires and analyzes network traffic and detects malicious actors + identiﬁes bots",
+          "features": "Features"
+    }
+
+    },
+    {
+        "title":"Threat Intelligence System",
+        "content":{
+            "heading":"TiS",
+            "describe": "A threat intelligence system which provides near real time visualization of information about threats and threat actors",
+            "list": [
+                "Enhances cyber security risk mitigation",
+                "Provides full visibility, situational awareness and actionable threat intelligence"
+              ],
+              "systemheading":"System conﬁguration of the proposed solutio",
+              "systeminfo":"Integrates with Network connected critical application servers. Continuously moni- tors the logs of an integrated application server, analyzes the logs, classiﬁes and notiﬁes the end-user.",
+              "features": "Features"
+
+        }
+    }
+    ]
+   
+
+
+}
