@@ -51,7 +51,7 @@ const SolutionDevelopment = () => {
             }
             handleClick(index)
           }} key={index} className="solution_box">
-          <h3 >{item.title}</h3>
+          <h3 className='solution_drop'>{item.title}</h3>
           {openStates[index] ? <ArrowDropDownIcon className='icon' /> : <ArrowDropUpIcon className='icon' />}  
           
            
@@ -70,12 +70,17 @@ const SolutionDevelopment = () => {
                 <li key={listItemIndex}>{listItem}</li>
               ))}
             </ul>
-            <div>
-              <div>
-
+            <div className='system_feature_image_container'>
+              <div className='system_feature'>
+                <p className='system_heading'>{item.content.systemheading}</p>
+                <p className='system_info'>{item.content.systeminfo}</p>
+                <p className='system_heading'>{item.content.features}</p>
+                <p className='system_info'>{item.content.featureinfo}</p>
               </div>
               <div>
-                
+                <div className='solution_img_div'>
+                  <img className='solution_img' src={item.content.solutionimg}/>
+                </div>
               </div>
             </div>
           </div> 

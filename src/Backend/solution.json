@@ -18,7 +18,9 @@
              ],
              "systemheading":"System conﬁguration of the proposed solutio",
              "systeminfo":"RobustD deployed at OT layer and integrated with controller over Modbus TCP + histo- rian. Acquires data, calculates anomaly / alarm score for newly generated measurements and detects intrusion",
-             "features": "Features"
+             "features": "Features",
+             "featureinfo":"Intrusion detection at OT and ICS layers, ML based, May detect zero-day attacks, Robust and resistant to outliers.",
+             "solutionimg":"robustd.png"
 
        }
     },
@@ -34,7 +36,10 @@
               ],
               "systemheading":"System conﬁguration of the proposed solutio",
               "systeminfo":"FileD can be deployed in the customer’s network as a service. Users can upload their ﬁles received and get them analyzed before use",
-              "features": "Features"
+              "features": "Features",
+              "featureinfo":"ML based, Maintains hash of submitted ﬁles and Repo of identiﬁed malicious ﬁles to speed up future analysis, Currently analyzes PE, ELF, PDF, APK, and JS, Uniﬁed platform that performs static, dynamic and memory forensics, accuracy Up to 99%, packed and obfuscated malicious ﬁle detection.",
+              "solutionimg":"filed.png"
+
         }
     },
     {
@@ -49,7 +54,9 @@
               ],
               "systemheading":"System conﬁguration of the proposed solutio",
               "systeminfo":"Deployed within the network, TrapD acts like an actual system, waits for requests and responds accordingly, Keeps malicious actor engaged by serving several vulnerabilities incorporated intentionally.",
-              "features": "Features"
+              "features": "Features",
+              "featureinfo":"Flexible deployment either at intranet or on the Internet, Continuous monitoring, Near real time notiﬁcation, Scalable up to 36 subnets 108 decoys 200 concurrent clients",
+              "solutionimg":"trapd.png"
         }
     },
     {
@@ -64,7 +71,9 @@
           ],
           "systemheading":"System conﬁguration of the proposed solutio",
           "systeminfo":"BinD is a network-connected solution. It acquires and analyzes network traffic and detects malicious actors + identiﬁes bots",
-          "features": "Features"
+          "features": "Features",
+          "featureinfo":"Bot-net Detection, BinD classiﬁes botnets up to an overall accuracy of 99.85%. NIDS works for Modbus, CIP, IEC61850, IEC60870-5-104 and other industrial protocols.",
+          "solutionimg":"bind.png"
     }
 
     },
@@ -79,7 +88,9 @@
               ],
               "systemheading":"System conﬁguration of the proposed solutio",
               "systeminfo":"Integrates with Network connected critical application servers. Continuously moni- tors the logs of an integrated application server, analyzes the logs, classiﬁes and notiﬁes the end-user.",
-              "features": "Features"
+              "features": "Features",
+              "featureinfo":"Detects various web borne threats with an accuracy up to 99%, ML based, Continuous monitoring, Near real time notiﬁcation.Footer menu",
+              "solutionimg":"tis.png"
 
         }
     }

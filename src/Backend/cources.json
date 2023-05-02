@@ -1,0 +1,19 @@
+{
+    "title": "Cources",
+    "lineImage":"smallLine.png",
+    "heading":"Lets Learn",
+    "courceimage":"courceimage.png",
+    "cources":[
+        {
+            "heading":"Advanced Certification Program in ICS/SCADA Cybersecurity"
+
+        },
+        {
+            "heading":"Professional Certificate Program in Blockchain."
+        },
+     
+        {
+            "heading":"Cyber Security & Cyber Defense (ACP)"
+        }
+    ]
+}

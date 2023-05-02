@@ -4,7 +4,8 @@ import Footer from './Component/Footer/Footer';
 
 import Aboutview from './View/Aboutview';
 import HomeView from './View/HomeView';
-import Solution from './Component/Solution/Solution';
+import Solutionview from './View/Solutionview';
+import Cources from './Component/Cources/Cources';
 function App() {
 
   return (
@@ -13,8 +14,8 @@ function App() {
       <Header/>
       {/* <HomeView/> */}
       {/* <Aboutview/> */}
-
-      <Solution/>
+      {/* <Solutionview/> */}
+      <Cources/>
       <Footer/> 
      </div>
     </div>

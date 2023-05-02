@@ -1,0 +1,83 @@
+.banner_container{
+    color:#C2C2C2;
+    background-image: url(courcesback.png);
+    margin-top: 1rem;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    padding-block: 1rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.solution_headind{
+    margin: 0;
+    font-size: clamp(2rem,1.5vw,1.3rem);
+    font-weight: 450;
+}
+.solution_word{
+    position: absolute;
+    left: 2rem;
+    bottom: 2rem;
+}
+.lets_learn{
+    display: grid;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    margin-left: 3rem;
+
+}
+.heading{
+    display: flex;
+    justify-content: left;
+    column-gap: 0.4rem;
+    margin-bottom: 0.3rem;
+
+}
+.side_word{
+    color: #c2c2c2;
+    font-size: clamp(1.7rem,1.5vw,1.3rem);
+    margin-right: 0.5rem;
+    
+}
+.middle{
+    color:#F87F26;
+    font-size: clamp(1.7rem,1.5vw,1.3rem);
+    margin-right: 0.5rem;
+
+}
+
+  
+
+.cource_box {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 5px;
+    height: 30vh;
+    border: 1px solid rgb(235, 118, 118);
+  }
+  
+  .cource_box img {
+    width: 90%;
+    height: 80%;
+  }
+  
+  .cource_heading {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+    color: white;
+  }
+  
+ 
+  
+  
+  
+  
+  
