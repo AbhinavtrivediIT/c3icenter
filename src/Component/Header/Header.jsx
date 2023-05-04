@@ -1,11 +1,12 @@
 import React from 'react'
 import './Header.css'
-
+import MenuIcon from '@mui/icons-material/Menu';
 function Header() {
   return (
-    <div>
 
-<header>
+<div className='logo_icon'> 
+  <MenuIcon className='menu'/>
+<div className='header'>
   <div class="logo">
   <svg width="70" height="70" viewBox="0 0 83 79" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M7.63496 2.40821C7.12199 2.1907 6.52324 2.41622 6.3073 2.92985C3.02561 10.7356 1.58495 19.1972 2.10306 27.6579C2.83286 38.102 6.47996 48.1316 12.6294 56.6053C18.8618 65.4263 27.3514 72.4045 37.2052 76.8122C37.4737 76.9323 37.7821 76.9258 38.0452 76.7943C46.0971 72.7725 53.1495 66.999 58.6821 59.8947C65.2768 52.0934 69.6189 42.6414 71.2419 32.5566C72.8134 22.7917 71.7779 12.7911 68.2484 3.5643C68.0547 3.05815 67.4883 2.80963 66.9761 2.9867C62.4078 4.56615 57.5988 5.34601 52.761 5.28947C47.4811 5.22642 42.2617 4.16703 37.3772 2.16846C37.1181 2.06246 36.8269 2.06692 36.571 2.18022C31.9327 4.2336 26.9154 5.29533 21.8399 5.29533C16.9558 5.29533 12.1252 4.31214 7.63496 2.40821Z" stroke="#F58634" stroke-width="4" stroke-miterlimit="10"/>
@@ -18,15 +19,16 @@ function Header() {
       </svg>  
   </div>
   <nav class="nav">
-    <button to="/" class="header_button active">Home</button>
-    <button to="/about" class="header_button">About Us</button>
+    <button class="header_button active">Home</button>
+    <button class="header_button">About Us</button>
     <button class="header_button">Solutions</button>
     <button class="header_button">Publications</button>
     <button class="header_button">Contact</button>
   </nav>
-</header>
+</div >
+</div>
 
-    </div>
+  
   )
 }
 

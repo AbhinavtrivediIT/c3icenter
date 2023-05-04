@@ -57,9 +57,9 @@
     align-items: center;
     justify-content: center;
     margin: 10px;
-    padding: 5px;
+    padding: 0px;
     height: 30vh;
-    border: 1px solid rgb(235, 118, 118);
+    /* border: 1px solid rgb(235, 118, 118); */
   }
   
   .cource_box img {
@@ -68,13 +68,21 @@
   }
   
   .cource_heading {
-    font-size: 18px;
     font-weight: bold;
     text-align: center;
     margin: 0;
     color: white;
   }
-  
+  .Knowmore{
+    background-color: #F58634;
+    color: white;
+    cursor: pointer;
+    border:  none;
+    border-radius: 50px;
+    padding-block: 0.5rem;
+    padding-inline: 1rem;
+    margin-top: 1rem;
+  }
  
   
   

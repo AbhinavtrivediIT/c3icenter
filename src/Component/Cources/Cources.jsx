@@ -49,7 +49,10 @@ const Learn = ()=>{
         {data.cources.map((item, index) => (
         <div key={index} className='cource_box'>
         <img  src={data.courceimage}/>
+        <div className="courcetitle_pera_button">
         <p  className='cource_heading'>{item.heading}</p>
+        <button className='Knowmore'>{data.knowbutton}</button>
+        </div>
     </div>
      ))}
     </Carousel>

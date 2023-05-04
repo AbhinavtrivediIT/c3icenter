@@ -3,6 +3,7 @@
     "lineImage":"smallLine.png",
     "heading":"Lets Learn",
     "courceimage":"courceimage.png",
+    "knowbutton":"Know More",
     "cources":[
         {
             "heading":"Advanced Certification Program in ICS/SCADA Cybersecurity"

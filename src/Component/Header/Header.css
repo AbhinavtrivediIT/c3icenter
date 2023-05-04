@@ -1,5 +1,6 @@
 
-header {
+
+.header {
     display: flex;
     align-items: center;
     padding: 0.5rem;
@@ -22,8 +23,9 @@ header {
 
   .nav {
     display: flex;
-/* background-color: lightblue; */ 
+/* background-color: lightblue;  */
    margin-inline: auto;
+   /* background-color: #ff8c00; */
 
 }
 
@@ -49,11 +51,17 @@ header {
     color: #ff8c00;
     border-bottom: 2px solid #ff8c00;
   }
+@media only screen and (max-width: 576px) {
+.header{
+  display: block;
 
+}
+.nav{
+  justify-content: space-evenly;
 
-
-  
-
-  
-
-  
+}
+.header_button {
+margin-inline: 0.1rem;
+/* background-color: lightblue; */
+}
+}
