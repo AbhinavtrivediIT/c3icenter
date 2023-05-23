@@ -6,11 +6,13 @@
     "knowbutton":"Know More",
     "cources":[
         {
-            "heading":"Advanced Certification Program in ICS/SCADA Cybersecurity"
+            "heading":"Advanced Certification Program in ICS/SCADA Cybersecurity",
+            "knowbutton_url": "https://security.cse.iitk.ac.in/sites/default/files/2022-04/www-smcin-com-training-cybersecurity-index-html%20%281%29.pdf"
 
         },
         {
-            "heading":"Professional Certificate Program in Blockchain."
+            "heading":"Professional Certificate Program in Blockchain.",
+            "knowbutton_url":"https://security.cse.iitk.ac.in/sites/default/files/2021-12/Professional%20Certificate%20Program%20in%20Blockchain-IIT%20Kanpur.pdf"
         },
      
         {

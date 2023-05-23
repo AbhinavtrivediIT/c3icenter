@@ -7,8 +7,14 @@ function Research() {
 
   return (
     <div className='research'>
-      <div className='research_heading'>
-      <img src={reaseone} alt="Italian Trulli" />
+      <div className='research_line'>
+        <div className='heading'> 
+          <div className='side_word'> {data.title.split(" ")[0]}</div> 
+          <div className='middle'> {data.title.split(" ")[1]}</div>
+          <div className='side_word'> {data.title.split(" ")[2]}</div> 
+        </div>
+        <img src={data.researchline}/>
+      </div>
       <p className='research_pera'>{data.description}</p>
 
       <div className='research_card_grp'>
@@ -20,7 +26,6 @@ function Research() {
           <button className='research_btn'>{item.buttonName}</button>
         </div> 
     ))}
-      </div>
       </div>
     </div>
     

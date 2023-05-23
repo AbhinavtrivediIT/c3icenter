@@ -1,0 +1,485 @@
+{
+    "title": "Publications",
+    "lineImage":"smallLine.png",
+    "heading":"Publications Published",
+    "largelineImage":"line.png",
+    "solutionlineima":"solutionLine.png",
+    "courceimage":"courceimage.png",
+
+"publicationtion" :[
+    
+{
+        "title":"2023",
+        "publicationdetail" :[
+        {
+            "intro" : "A Proctor - A practical on-device antidote for Android malware",
+            "author":"Author Name :",
+            "name" : "Akash Patel, Nitesh Kumar, Anand Handa, Sandeep K Shukla"
+        }
+        ]               
+},
+{
+    "title":"2022",
+    "publicationdetail" :[
+        {
+            "intro" : "Volatility Custom Profiling for Automated Hybrid ELF Malware Detection",  
+            "author":"Author Name :",
+            "name":"Rahul Varshney, Nitesh Kumar, Anand Handa, Sandeep K Shukla"
+        },
+        {
+            "intro" : "Automated Windows Behavioral Tracing for Malware Analysis",
+            "author":"Author Name :",
+            "name":"Shubham Rana, Nitesh Kumar, Anand Handa, Sandeep K Shukla"
+        },
+        {
+            "intro" : "RBMon: Real Time System Behavior Monitoring Tool",
+            "author":"Author Name :",
+            "name":"Nitesh Kumar, Anand Handa, and Sandeep K. Shukla"
+        },
+        {
+            "intro" : "Security Orchestration, Automation, and Response Engine for Deployment of Behavioural Honeypots",
+            "author":"Author Name :",
+            "name":"Upendra Bartwal, Subhasis Mukhopadhyay, Rohit Negi, Sandeep Shukla"
+        }
+    ]
+},
+{
+    "title":"2021",
+    "publicationdetail" :[
+        {
+            "intro" : "Robust Multi-variate Anomaly-based Intrusion Detection for Cyber-Physical Systems",
+            "author":"Author Name :",
+            "name":"Aneet Kumar Dutta, Rohit Negi, Sandeep K. Shukla"
+        },
+        {
+            "intro" : "Adversaries Strike Hard: Adversarial Attacks against Malware Classifiers using Dynamics API calls as Features",
+            "author":"Author Name :",
+            "name":"Hariom, Anand Handa, Nitesh Kumar, Sandeep K. Shukla"
+            }
+    ]
+},
+{
+"title":"2020",
+"publicationdetail" :[
+    {
+
+    "intro" : "The State of Android Security. In: Shukla S., Agrawal M. (eds) Cyber Security in India",
+    "author":"Author Name :",
+    "name":"Kumar S., Shukla S.K"
+    },
+    {
+
+    "intro" : "Honeypot Deployment Experience at IIT Kanpur. In: Shukla S., Agrawal M. (eds) Cyber Security in India",
+    "author":"Author Name :",
+    "name":" Rohit Sehgal, Nishit Majithia, Shubham Singh, Sanjay Sharma, Subhasis Mukhopadhyay, Anand Handa, Sandeep Kumar Shukla"
+    },
+    {
+
+    "intro" : "Building India’s First Cyber-Security Test-Bed for CI. In: Shukla S., Agrawal M. (eds) Cyber Security in India.",
+    "author":"Author Name :",
+    "name":"Negi R., Shukla S.K"
+    },
+    {
+
+    "intro" : "Building Industrial Scale CyberSecurity Experimentation Testbeds for Critical Infrastructures",
+    "author":"Author Name :",
+    "name":"Rohit Negi, Anand Handa, Sandeep K Shukla"
+    },
+    {
+
+    "intro" : "Intrusion detection & prevention in Programmable Logic Controllers: A Model-driven Approach",
+    "author":"Author Name :",
+    "name":"Rohit Negi, Aneet Dutta, Anand Handa, Ujjwal Ayyangar, Sandeep K Shukla"
+    },
+    {
+
+    "intro" : "Blockchain and Its Application in Cybersecurity. In: Shukla S., Agrawal M. (eds) Cyber Security in India.",
+    "author":"Author Name :",
+    "name":"Sahai Srivastava S. et al."
+    },
+    {
+
+    "intro" : "Verity: Blockchain Based Framework to Detect Insider Attacks in DBMS",
+    "author":"Author Name :",
+    "name":"Shubham Sahai, Medha Atre, Shubham Sharma, Rahul Gupta, Sandeep K. Shukla"
+    },
+    {
+
+    "intro" : "accepted at 3rd the IEEE International Conference on Blockchain (BLOCKCHAIN 2020), November 2020, Rhodes Island, Greece",
+    "author":"Author Name :",
+    "name":"Saurabh Kumar, Debadatta Mishra, Biswabandan Panda and Sandeep K. Shukla"
+    },
+    {
+
+    "intro" : "STDNeut: Neutralizing Sensor, Telephony System and Device State Information on Emulated Android Environments",
+    "author":"Author Name :",
+    "name":"Saurabh Kumar, Debadatta Mishra, Biswabandan Panda and Sandeep K. Shukla"
+    },
+    {
+
+    "intro" : "Detecting Word Based DGA Domains Using Ensemble Models",
+    "author":"Author Name :",
+    "name":"P. V. Sai Charan, Sandeep K. Shukla, and P. Mohan Anand"
+    },
+    {
+
+    "intro" : "Malware Detection in Word Documents using Machine Learning",
+    "author":"Author Name :",
+    "name":"Riya Khan, Nitesh Kumar, Anand Handa and Sandeep K. Shukla"
+    },
+    {
+
+    "intro" : "Detecting Malicious Accounts in Permissionless Blockchains using Temporal Graph Properties",
+    "author":"Author Name :",
+    "name":"Rachit Agarwal; Shikhar Barve; Sandeep Kumar Shukla"
+    },
+    {
+
+    "intro" : "Insecurity Study of Ethereum Smart Contracts",
+    "author":"Author Name :",
+    "name":"Bishwas C Gupta, Nitesh Kumar, Anand Handa and Sandeep K Shukla"
+    },
+    {
+
+    "intro" : "Static Ransomware Analysis using Machine Learning and Deep Learning Models",
+    "author":"Author Name :",
+    "name":"Kartikeya Gaur, Nitesh Kumar, Anand Handa and Sandeep K Shukla"
+    },
+    {
+
+    "intro" : "A Review: Malware Analysis Work at IIT Kanpur. In: Shukla S., Agrawal M. (eds)Cyber Security in India.",
+    "author":"Author Name :",
+    "name":"Kumar A., Gupta M., Kumar G., Handa A., Kumar N., Shukla S.K."
+    },
+    {
+
+    "intro" : "Malware Analysis Using Image Classification Techniques. In: Shukla S., Agrawal M. (eds) Cyber Security in India.",
+    "author":"Author Name :",
+    "name":"Singh A., Handa A., Kumar N., Shukla S.K."
+    },
+    {
+
+    "intro" : "Detecting Malicious Accounts on the Ethereum Blockchain with Supervised Learning",
+    "author":"Author Name :",
+    "name":"Nitesh Kumar, Ajay Singh, Anand Handa and Sandeep Kumar Shukla"
+    }
+
+]
+    
+        },
+{
+    "title":"2019",
+"publicationdetail" :[
+    {
+
+        "intro" : "Automated Classification of Web-Application Attacks for Intrusion Detection",
+        "author":"Author Name :",
+        "name":"Harsh Bhagwani, Rohit Negi, Aneet Kumar Dutta, Anand Handa, Nitesh Kumar and Sandeep Kumar Shukla            "
+    },
+    {
+
+        "intro" : "Evading API Call Sequence Based Malware Classifiers",
+        "author":"Author Name :",
+        "name":"Fenil Fadadu, Anand Handa, Nitesh Kumar and Sandeep K. Shukla"
+    },
+    {
+
+        "intro" : "Cyber Risk Assessment of Networked Cyber Assets using Probabilistic Model Checking",
+        "author":"Author Name :",
+        "name":"Anand Handa, Subhasis Mukhopadhyay, Shankhadip Mallick, Nitesh Kumar, Sandeep K Shukla, Remish L Minz, Sanjana Pai Nagarmat, Ramesh Rakesh"
+    },
+    {
+
+        "intro" : "Verity: Blockchains to Detect Insider Attacks in DBMS, CoRR abs/1901.00228",
+        "author":"Author Name :",
+        "name":"S. Srivastava, Shubham & Atre, Medha & Sharma, Shubham & Gupta, Rahul & Shukla, Sandeep"
+    },
+    {
+
+        "intro" : "Vulnerability Assessment and Mitigation for Industrial Critical Infrastructures with Cyber Physical Test Bed",
+        "author":"Author Name :",
+        "name":"Rohit Negi, Sandeep Kumar Shukla, Ashish Gahlot, Parvin Kumar, Shibashis Ghosh"
+    },
+    {
+
+        "intro" : "Predictive Modeling of Electricity Trading Prices and the Impact of Increasing Solar Energy Penetration",
+        "author":"Author Name :",
+        "name":"Soumyo V. Chakraborty, and Sandeep K. Shukla"
+    },
+    {
+
+        "intro" : "Buffer Overflow Attack and Prevention for an FPGA-Based Soft-Processor System",
+        "author":"Author Name :",
+        "name":"Singh C., Satish S., Mitra J., Shukla S"
+    },
+    {
+
+        "intro" : "Sequence to sequence deep learning models for solar irradiation forecasting",
+        "author":"Author Name :",
+        "name":"Bhaskar Pratim Mukhoty, Vikas Maurya, and Sandeep K. Shukla"
+    },
+    {
+
+        "intro" : "Entangled Blockchains in Land Registry Management",
+        "author":"Author Name :",
+        "name":"Sekhari, Ashwin, Chatterjee, Rishav, Dwivedi, Ras, Negi, Rohit & Shukla, Sandeep"
+    },
+    {
+
+        "intro" : "Approaches for Assigning Offsets to Signals for Improving Frame Packing in CAN-FD, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)",
+        "author":"Author Name :",
+        "name":"Prachi Joshi, S. S. Ravi, Qingyu Liu, Unmesh D. Bordoloi, Soheil Samii, Sandeep Shukla, and Haibo Zeng"
+    },
+    {
+
+        "intro" : "Machine learning in cybersecurity: A review. WIREs Data Mining Knowledge Discovery Journal. 2019;e1306.",
+        "author":"Author Name :",
+        "name":"Handa A, Sharma A, Shukla SK."
+    },
+    {
+
+        "intro" : "Malware Classification using Image Representation",
+        "author":"Author Name :",
+        "name":"Ajay Singh, Anand Handa, Nitesh Kumar and Sandeep Kumar Shukla"
+    },
+    {
+
+        "intro" : "PeerClear: Peer-to-Peer Bot-net Detection",
+        "author":"Author Name :",
+        "name":"Amit Kumar, Nitesh Kumar, Anand Handa and Sandeep K. Shukla"
+    },
+    {
+
+        "intro" : "Malware Classification using Early Stage Behavioral Analysis",
+        "author":"Author Name :",
+        "name":"Nitesh Kumar, Subhasis Mukhopadhyay, Mugdha Gupta, Anand Handa and Sandeep K. Shukla"
+    },
+    {
+
+        "intro" : "LFSR based Versatile Divider Architectures for BCH and RS Error Correction Encoders",
+        "author":"Author Name :",
+        "name":"Asan M. Basiri, and Sandeep K. Shukla"
+    },
+    {
+
+        "intro" : "Evading API call sequence based Malware Classifiers",
+        "author":"Author Name :",
+        "name":"Fenil Fadadu, Nitesh Kumar, Anand Handa, and Sandeep K. Shukla"
+    },
+    {
+
+        "intro" : "Editorial: Embedded Security Challenge: Cyber Security Contests in the Embedded Computing Domain",
+        "author":"Author Name :",
+        "name":"Sandeep K. Shukla"
+    },
+    {
+
+        "intro" : "Formal Hardware Verification of InfoSec Primitives",
+        "author":"Author Name :",
+        "name":"Asan M. Basiri and Sandeep K. Shukla"
+    },
+    {
+
+        "intro" : "Automated Malware Detection using Memory Forensics, accepted at the 14th IEEE International Conference on Malicious and Unwanted Software",
+        "author":"Author Name :",
+        "name":"Gaurav Kumar, Nitesh Kumar, Anand Handa, and Sandeep K. Shukla"
+    }
+
+]
+    
+},
+{
+    "title":"2018",
+    "publicationdetail" :[
+        {
+        "intro" : "Editorial: Early Career Researchers in Embedded Computing",
+        "author":"Author Name :",
+        "name":"Sandeep K. Shukla"
+        },
+        {
+        "intro" : "Low Power Hardware Implementations for Network Packet Processing Elements",
+        "author":"Author Name :",
+        "name":"Mohamed Asan Basiri M and Sandeep K. Shukla"
+        },
+        {
+        "intro" : "Efficient Hardware-Software Codesigns of AES Encryptor and RS-BCH Encoder",
+        "author":"Author Name :",
+        "name":"Mohamed Asan Basiri M and Sandeep K. Shukla"
+        },
+        {
+        "intro" : "Impact of GPS Spoofing on Synchrophasor Assisted Load Shedding",
+        "author":"Author Name :",
+        "name":"J. G. Sreenath, S. Mangalwedekar, A. Meghwani, S. Chakrabarti, K. Rajawat, and S. C. Srivastava"
+        },
+        {
+        "intro" : "Asynchronous Hardware Implementations for Crypto Primitives",
+        "author":"Author Name :",
+        "name":"Mohamed Asan Basiri M, Sandeep K. Shukla"
+        },
+        {
+        "intro" : "An automata theoretic framework for detecting schedulability attacks on cyber-physical systems",
+        "author":"Author Name :",
+        "name":"Debleena Das, Ansuman Banerjee, Sandeep K. Shukla"
+        },
+        {
+        "intro" : "Cryptanalysis of 1-Round KECCAK",
+        "author":"Author Name :",
+        "name":"Rajendra Kumar, Mahesh Sreekumar Rajasree and Hoda AlKhzaim"
+        },
+        {
+        "intro" : "Editorial: To Use or Not To? Embedded Systems for Voting",
+        "author":"Author Name :",
+        "name":"Sandeep K. Shukla"
+        },
+        {
+        "intro" : "Editorial: Need for Artifact Verified Articles in ACM Transactions",
+        "author":"Author Name :",
+        "name":"Sandeep K. Shukla"
+        },
+        {
+        "intro" : "Editorial: Industry 4.0 - A Confluence of Embedded Artificial Intelligence, Machine Learning, Robotics and Security",
+        "author":"Author Name :",
+        "name":"Sandeep K. Shukla"
+        },
+        {
+        "intro" : "Editorial: Trust and Security Must Become a Primary Design Concern in Embedded Computing",
+        "author":"Author Name :",
+        "name":"Sandeep K. Shukla"
+        }
+
+    ]
+    
+        },
+        {
+            "title":"2017",
+            "publicationdetail" :[
+               
+                {
+                    "intro" : "Editorial: Continuing the Course",
+                    "author":"Author Name :",
+                    "name":"Sandeep K. Shukla"
+                },
+                {
+                    "intro" : "Editorial: Cyber Security, IoT, Block Chains - Risks and Opportunities",
+                    "author":"Author Name :",
+                    "name":"Sandeep K. Shukla"
+                },
+                {
+                    "intro" : "Editorial: Security of Mobile Devices",
+                    "author":"Author Name :",
+                    "name":"Sandeep K. Shukla"
+                },
+                {
+                    "intro" : "Editorial: Distributed Public Ledgers and Block Chains—What Good Are They for Embedded Systems?",
+                    "author":"Author Name :",
+                    "name":"Sandeep K. Shukla"
+                },
+                {
+                    "intro" : "Detecting Insider Attacks on Databases using Blockchains",
+                    "author":"Author Name :",
+                    "name":"Shubham Sharma, Rahul Gupta, Shubham Sahai Srivastava and Sandeep K. Shukla"
+                },
+                {
+                    "intro" : "Decentralized Authentication of IoT devices using Blockchain",
+                    "author":"Author Name :",
+                    "name":"S.Venkatesan, Shubham Sahai Srivastava and Sandeep Kumar Shukla"
+                },
+                {
+                    "intro" : "Flexible VLSI Architectures for Galois Field Multipliers",
+                    "author":"Author Name :",
+                    "name":"Mohamed Asan Basiri M and Sandeep K. Shukla"
+                },
+                {
+                    "intro" : "Offset Assignment to Signals for Improving Frame Packing in CAN-FD",
+                    "author":"Author Name :",
+                    "name":"Prachi Joshi, S. S. Ravi, Soheil Samii, Unmesh Bordoloi, Sandeep Shukla, Haibo Zeng"
+                },
+                {
+                    "intro" : "A High Speed KECCAK Coprocessor for Partitioned NSP Architecture on FPGA Platform",
+                    "author":"Author Name :",
+                    "name":"Rourab Paul and Saneep Kumar Shukla"
+                },
+                {
+                    "intro" : "Flexible Composite Galois Field GF ((2^m)^ 2 ) Multiplier Designs",
+                    "author":"Author Name :",
+                    "name":"Mohamed Asan Basiri M and Sandeep K Shukla"
+                }
+               
+            ]
+          
+        },
+        {
+            "title":"2016",
+            "publicationdetail" :[
+            {
+                "intro" : "Editorial: Science of the Big and Small and Embedded Computing Systems",
+                "author":"Author Name :",
+                "name":"Sandeep K Shukla"
+            },
+            {
+            "intro" : "Hardware Optimizations for Crypto Implementations (Invited Paper)",
+            "author":"Author Name :",
+            "name":"Mohamed Asan Basiri M and Sandeep K. Shukla"
+            },
+            {
+                "intro" : "Bottom-up approach for integrating models for software components using contracts",
+                "author":"Author Name :",
+                "name":"Prachi Joshi, Huafeng Yu, Sandeep K Shukla, Jean-Pierre Talpin, , Jean-Pierre Talpin"
+             },
+             {
+              "intro" : "Design space exploration for deterministic ethernet-based architecture of automotive systems",
+              "author":"Author Name :",
+              "name":"Prachi Joshi, Haibo Zeng, Sandeep K Shukla, Chung-wei Lin, Huafeng Yu"
+             },
+            {
+           "intro" : "Timing-oriented and architecture-centric system design using contracts",
+           "author":"Author Name :",
+           "name":"Huafeng Yu, Jean-Pierre Talpin, Sandeep K Shukla"
+            },
+            {
+            "intro" : "Editorial: Security of Embedded Systems and Cyber Irons--Embedded Systems for Security",
+            "author":"Author Name :",
+            "name":"Sandeep K Shukla"
+            },
+            {
+            "intro" : "Editorial: Fence Itself Grazing the Field—Security from the Sentries",
+            "author":"Author Name :",
+            "name":"Sandeep K Shukla"
+            },
+            {
+            "intro" : "",
+            "author":"Author Name :",
+            "name":""
+            },
+            {
+            "intro" : "",
+            "author":"Author Name :",
+            "name":""
+            },
+            {
+            "intro" : "",
+            "author":"Author Name :",
+            "name":""
+            }
+          
+
+            ]
+          
+        },
+        {
+            "title":"2015",
+            "publicationdetail" :[
+               {
+                   "intro" : "A Proctor - A practical on-device antidote for Android malware"
+               }
+            ]
+          
+        }
+        ]
+       
+    
+}
+
+
+
+

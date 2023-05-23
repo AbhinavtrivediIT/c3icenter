@@ -99,10 +99,6 @@ const SolutionDevelopment = () => {
 
 
 
-
-
-
-
 const Solution = () => {
   return (<>
   <Banner/>

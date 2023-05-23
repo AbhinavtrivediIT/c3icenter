@@ -1,0 +1,239 @@
+.banner_container{
+    color:#C2C2C2;
+    background-image: url(publish.png);
+    margin-top: 1rem;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    padding-block: 1rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.publication_headind{
+    margin: 0;
+    font-size: clamp(2rem,1.5vw,1.3rem);
+    font-weight: 450;
+}
+.publication_word{
+    position: absolute;
+    left: 2rem;
+    bottom: 2rem;
+}
+
+
+
+/* 
+.solution_development_main_container{
+    background-color: lightgrey;
+} */
+.story_line{
+    display: grid;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    margin-left: 3rem;
+
+}
+.heading{
+    display: flex;
+    justify-content: left;
+    column-gap: 0.4rem;
+    margin-bottom: 0.3rem;
+
+}
+.side_word{
+    color: #c2c2c2;
+    font-size: clamp(1.7rem,1.5vw,1.3rem);
+    margin-right: 0.5rem;
+    
+}
+.middle{
+    color:#F87F26;
+    font-size: clamp(1.7rem,1.5vw,1.3rem);
+    margin-right: 0.5rem;
+
+}
+.publication_box{
+    background-color: #191E21;
+    width:70%;
+    margin: auto;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 5px;
+    cursor: pointer;
+}
+.publication_drop{
+    color: #ffffff;
+}
+.icon{
+    align-self: center;
+    color: #ffffff;
+
+}
+.content_main_container{
+    background-color: #191E21;
+    padding: 0.5rem;
+    width:70%;
+    margin: auto;
+    margin-bottom: 2rem;
+    text-align: left;
+
+}
+
+.intro{
+    margin-left: 2.5rem;
+    border-bottom: 1px solid #ffffff;
+    width: max-content;
+    color: #ffffff;
+
+}
+
+.publication_block {
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    padding: 5px;
+    height: 35vh;
+    background-color: rgba(24, 28, 31, 0.25);
+    box-shadow: 0px 0px 10px 1px rgba(96, 95, 95, 0.15);
+    border-radius: 15px;
+    /* border: 1px solid rgb(235, 118, 118); */
+  }
+ 
+.publication_block img{
+    height: 80%;
+    margin-bottom: 1rem;
+}
+
+  .publication_block p {
+    text-align: center;
+    margin: 0;
+    color: #FFFFFF;
+
+  }
+  .popup{
+    background-color:rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+       margin: auto;
+        bottom: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      
+  }
+
+.popup_content{
+    width:max(50%,390px);
+    min-height: 10rem ;
+    padding: 1rem;
+    box-sizing: border-box;
+    background-color: rgba(24, 28, 31, 1);
+    box-shadow: 0px 0px 10px 1px rgba(96, 95, 95, 0.15);
+    border-radius: 15px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+.close_button {
+ 
+    border: none;
+    font-size: 26px;
+    cursor: pointer;
+    color: white;
+  }
+  .pop_img_content{
+    display: flex;
+    text-align: center;
+  }
+  
+  .pop_img_content img {
+    height: auto;
+    align-self: center;
+    margin-bottom: 10px;
+  }
+  .content{
+    align-self: center;
+    text-align: center;
+    margin-inline: auto;
+
+  }
+  
+  .content p:first-child{
+    font-size: 1.5rem;
+
+  }
+  .content p{
+    font-size: 1.2rem;
+    color: white;
+  }
+@media screen and (max-width:1400px) {
+    .popup_content{
+        width:max(75%);
+        margin-inline: auto !important;
+    }
+
+}
+
+@media screen and (max-width:800px) {
+    .publication_box{
+        width:85%;
+    }
+    .content_main_container{
+        width:85%;
+        
+    }
+    .solution_img{
+        width: 70%;
+        height: 70%;
+    }
+    .pop_img_content{
+        display: block;
+      }
+}
+@media screen and (max-width:500px) {
+    .solution_img{
+        width: 100%;
+        height: 100%;
+    }
+    .story_line{
+        margin-inline: 0;
+    
+    }
+    .heading{
+        justify-content: center;
+    
+    }
+    .pop_img_content img {
+    width: 70%;
+    height: 70%;
+    }
+ 
+}
+@media screen and (max-width:400px) {
+    .publication_box{
+        width:95%;
+    }
+    .content_main_container{
+        width:95%;
+        
+    }
+    .solution_img{
+        width: 70%;
+        height: 70%;
+    }
+    .pop_img_content img {
+       display: none;
+    }
+    
+}

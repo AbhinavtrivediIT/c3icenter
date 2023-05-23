@@ -1,5 +1,7 @@
 import React from 'react'
 import './Header.css'
+import { NavLink } from "react-router-dom";
+
 import MenuIcon from '@mui/icons-material/Menu';
 function Header() {
   return (
@@ -19,11 +21,21 @@ function Header() {
       </svg>  
   </div>
   <nav class="nav">
-    <button class="header_button active">Home</button>
-    <button class="header_button">About Us</button>
-    <button class="header_button">Solutions</button>
-    <button class="header_button">Publications</button>
-    <button class="header_button">Contact</button>
+  <NavLink exact to="/" className="header_button" activeClassName="active">
+        Home
+      </NavLink>
+      <NavLink to="about" className="header_button" activeClassName="active">
+        About Us
+      </NavLink>
+      <NavLink to="solution" className="header_button" activeClassName="active">
+        Solutions
+      </NavLink>
+      <NavLink to="publish" className="header_button" activeClassName="active">
+        Publications
+      </NavLink>
+      <NavLink to="cources" className="header_button" activeClassName="active">
+        Courses
+      </NavLink>
   </nav>
 </div >
 </div>

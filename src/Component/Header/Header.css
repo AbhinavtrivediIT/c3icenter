@@ -29,29 +29,26 @@
 
 }
 
-  .header_button {
-    padding: 0.5rem;
-    font-size: 1rem;
-    margin-inline: 1rem;
+  .nav .header_button{
+    font-size: 1.3rem;
+    margin-inline: 1.5rem;
     font-weight: 500;
     color: #C2C2C2;
-
-    ;
-    border: none;
-    background-color: transparent;
+    text-decoration: none;
     cursor: pointer;
-    transition: border-bottom-color 0.3s ease-in-out;
   }
 
-  .header_button:hover {
-    border-bottom-color: #ddd;
+ 
+  .nav .header_button.active {
+    color:#F87F26;
+    border-bottom: 3px solid #F87F26;
+    border-radius: 3px;
   }
+    
 
-  .active {
-    color: #ff8c00;
-    border-bottom: 2px solid #ff8c00;
-  }
+  
 @media only screen and (max-width: 576px) {
+
 .header{
   display: block;
 
@@ -59,9 +56,7 @@
 .nav{
   justify-content: space-evenly;
 
-}
-.header_button {
-margin-inline: 0.1rem;
-/* background-color: lightblue; */
-}
+} .nav .header_button{
+    font-size: 0.8rem;
+  margin-inline: 0.7rem;}
 }
